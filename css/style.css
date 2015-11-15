@@ -1,5 +1,5 @@
 #releases {
-    background: url('../images/stardust/stardust.png') 50% 0 fixed;
+    background: url('../images/skewed_print/skewed_print.png') 50% 0 fixed;
     height: auto;  
     margin: 0 auto; 
     width: 100%; 
@@ -9,9 +9,9 @@
 }
 
 #about {
-    background: url('../images/sunset.jpg') 50% 0 fixed;
+    background: url('../images/squad.jpg') 50% 0 fixed;
     height: auto; 
-    margin: 0 auto; 
+    margin: 0 auto;
     width: 100%; 
     position: relative; 
     box-shadow: 0 0 50px rgba(0,0,0,0.8);
@@ -32,4 +32,11 @@
     font-size: 24px;
     color: white;
     text-align: center;
+}
+
+.content {
+    font-family: 'Raleway', sans-serif;
+    font-size: 20px;
+    color: #fff;
+    text-shadow: -1px 0 black, 0 1px black, 1px 0 black, 0 -1px black;
 }
